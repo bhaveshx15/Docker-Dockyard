@@ -77,7 +77,7 @@ docker build -t streamlit-app .
 
 3️⃣ Run the container:
 ```sh
-docker run -p 8501:8501 streamlit-app
+docker run -p 8501:9000 streamlit-app
 ```
 
 4️⃣ Open in Browser: Go to [http://localhost:8501](http://localhost:9000) 🌐
