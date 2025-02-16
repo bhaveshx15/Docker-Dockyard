@@ -80,8 +80,6 @@ docker build -t streamlit-app .
 docker run -p 8501:9000 streamlit-app
 ```
 
-4️⃣ Open in Browser: Go to [http://localhost:8501](http://localhost:9000) 🌐
-
 ---
 
 ## 🎯 Conclusion
