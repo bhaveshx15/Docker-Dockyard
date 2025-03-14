@@ -120,7 +120,7 @@ USE Bhavesh;
 ```sql
 SELECT * FROM students;
 ```
-
+![image](https://github.com/user-attachments/assets/b5de41d4-6105-416d-847c-28e130a006ae)
 ---
 
 ## 🎉 Conclusion
