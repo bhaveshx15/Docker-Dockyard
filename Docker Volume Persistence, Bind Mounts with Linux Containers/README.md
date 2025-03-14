@@ -85,6 +85,9 @@ Hello, Bhavesh!
 This confirms that **bind mounts persist data even after a container is removed**. 🔥
 
 ---
+---
+![Screenshot 2025-03-14 072548](https://github.com/user-attachments/assets/f6cf5fa3-7a51-4ace-b637-68100f318f2f)
+---
 
 ## 🎯 Conclusion
 ✅ Bind mounts **allow data persistence** across multiple container instances.  
