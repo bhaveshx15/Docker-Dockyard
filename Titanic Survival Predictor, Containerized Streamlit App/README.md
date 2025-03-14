@@ -97,7 +97,7 @@ Open your browser and navigate to:
 ```
 http://localhost:8501
 ```
-
+![Screenshot 2025-03-14 063554](https://github.com/user-attachments/assets/779a8a20-4977-446a-9250-169460738d0c)
 ---
 
 ## 🎯 **Conclusion**
