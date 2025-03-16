@@ -71,7 +71,7 @@ Go to VPC Dashboard → Subnets → Create Subnet
 - **Enable Auto-assign Public IP**  
 - **Security Group:** Allow SSH (22), HTTP (80), Streamlit (8501)  
 
-![img5](https://github.com/vidhi-jaju/DockSpace/blob/84980abb1c4a643320f44cdf69efd0a0547dec32/10.%20Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/5.png)
+![img5](https://github.com/bhaveshx15/Docker-Dockyard/blob/main/Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/5.png)
 
 ---
 
