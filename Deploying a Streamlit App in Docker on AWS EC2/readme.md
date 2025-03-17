@@ -133,7 +133,7 @@ sudo docker build -t streamlit-app .
 sudo docker run -d -p 8501:8501 --name streamlit_container streamlit-app
 ```
 
-![img10](https://github.com/vidhi-jaju/DockSpace/blob/84980abb1c4a643320f44cdf69efd0a0547dec32/10.%20Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/10.png)
+![img10](https://github.com/bhaveshx15/Docker-Dockyard/blob/main/Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/10.png)
 
 ---
 
