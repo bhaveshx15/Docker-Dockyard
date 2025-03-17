@@ -111,7 +111,7 @@ sudo systemctl start docker
 scp -i your-key.pem app.py Dockerfile requirements.txt mushrooms.csv ec2-user@your-ec2-public-ip:/home/ec2-user/
 ```
 
-![img8](https://github.com/vidhi-jaju/DockSpace/blob/84980abb1c4a643320f44cdf69efd0a0547dec32/10.%20Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/8.png)
+![img8](https://github.com/bhaveshx15/Docker-Dockyard/blob/main/Deploying%20a%20Streamlit%20App%20in%20Docker%20on%20AWS%20EC2/Images/8.png)
 
 ---
 
