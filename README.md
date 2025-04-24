@@ -4,7 +4,7 @@ Welcome to **My-Docker-Dockyard**! 🌊 This repository is my personal **dockyar
 
 ## 📦 Containerization Concepts Aboard:  
 
-### 1. [Dockerized Streamlit Development Environment 📊](Dockerized%20Streamlit%20Development%20Environment)  
+### 1. [Dockerized Streamlit Development Environment 📊](https://github.com/bhaveshx15/Docker-Dockyard/tree/main/Streamlit%20Development%20Environment)  
 - **Goal:** Build a **containerized Streamlit environment** for smooth and efficient data visualization.  
 - **Key Focus:** Web app deployment, interactive UI, and container efficiency.  
 
